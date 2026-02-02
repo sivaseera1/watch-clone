@@ -104,6 +104,9 @@
     border-radius: 5px;
     height: 30px;
     width: 90px;
+    text-align: center;
+    text-decoration: none;
+    line-height: 30px;
     cursor: pointer;
     box-shadow: 5px 5px 5px  grey;
 }
@@ -327,3 +330,4 @@ margin-left: 20px;
         width: 240px;
     }
 } 
+
